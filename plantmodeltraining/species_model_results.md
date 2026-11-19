@@ -20,7 +20,7 @@
 |---|---|
 | Data | GBIF plant images (Hugging Face `juppy44/gbif-plants-raw`), 35 species: houseplants, trees, shrubs |
 | Images | 3,078 total, about 88 per class on average (capped at 100 per class at collection) |
-| Split (stratified 70/15/15) | train 2,154 / val 462 / test 462 (evaluation reported n=461; one image difference, see caveats) |
+| Split (stratified 70/15/15) | train 2,151 / val 461 / test 461 (evaluation reported n=461; one image difference, see caveats) | 
 | Model | ResNet50, ImageNet-pretrained, new 35-way final layer |
 | Baseline | ImageNet backbone **frozen**, only the new head trained (10 epochs, lr 1e-3) |
 | Fine-tuned | Starts from the baseline, **all layers unfrozen** (10 epochs, lr 1e-4, cosine schedule) |
