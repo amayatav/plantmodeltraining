@@ -1,0 +1,6 @@
+plant_project/plants
+.venv
+.DS_Store
+*.pt
+.ipynb_checkpoints/
+!plant_project/checkpoints/species_dino_finetuned.pt
