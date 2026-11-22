@@ -1,0 +1,32 @@
+Species,Common name,Group
+Aloe vera,Aloe,succulent
+Crassula ovata,Jade plant,succulent
+Dracaena trifasciata,Snake plant,succulent
+Epipremnum aureum,Pothos,foliage_plant
+Monstera deliciosa,Swiss cheese plant,foliage_plant
+Philodendron hederaceum,Heartleaf philodendron,foliage_plant
+Dieffenbachia seguine,Dumb cane,foliage_plant
+Ficus elastica,Rubber plant,foliage_plant
+Tradescantia zebrina,Wandering jew,foliage_plant
+Chlorophytum comosum,Spider plant,foliage_plant
+Hedera helix,English ivy,foliage_plant
+Quercus robur / Quercus alba,English oak / white oak,deciduous_tree
+Acer rubrum / saccharum / platanoides,Red / sugar / Norway maple,deciduous_tree
+Betula pendula,Silver birch,deciduous_tree
+Fraxinus americana,White ash,deciduous_tree
+Liriodendron tulipifera,Tulip tree,deciduous_tree
+Platanus occidentalis,American sycamore,deciduous_tree
+Cornus florida,Flowering dogwood,deciduous_tree
+Salix babylonica,Weeping willow,deciduous_tree
+Ginkgo biloba,Ginkgo,deciduous_tree
+Pinus sylvestris / strobus,Scots pine / eastern white pine,evergreen_tree
+Magnolia grandiflora,Southern magnolia,evergreen_tree
+Hydrangea macrophylla,Bigleaf hydrangea,flowering_shrub
+Rosa canina,Dog rose,flowering_shrub
+Forsythia suspensa,Weeping forsythia,flowering_shrub
+Syringa vulgaris,Common lilac,flowering_shrub
+Rhododendron ponticum,Rhododendron,evergreen_shrub
+Buxus sempervirens,Common boxwood,evergreen_shrub
+Ilex aquifolium,English holly,evergreen_shrub
+Taxus baccata,English yew,evergreen_shrub
+Taraxacum officinale,Dandelion,weed
